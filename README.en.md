@@ -24,7 +24,6 @@ acquainted and configure additional features
 клонируй его себе на компьютер, пиши код, делай коммиты и отправляй их на
 GitHub.
 
-
 ## Подготовка к работе
 
 1. Make sure you have an LTS version of Node.js installed on your computer.
